@@ -1,10 +1,10 @@
 {
-	"name": "probot-commitlint",
-	"version": "0.0.0-development",
+	"name": "pro-commitlint",
+	"version": "0.0.1",
 	"description": "A GitHub App that runs commitlint for you",
-	"author": "Ahmed T. Ali <ah.tajelsir@gmail.com> (https://ahmed.sd)",
+	"author": "Ammar Ahmed Butt <ammar93butt@gmail.com> (https://www.ammarahmed.cf)",
 	"license": "MIT",
-	"repository": "https://github.com/z0al/commitlint-bot.git",
+	"repository": "https://github.com/ammar-ahmed-butt/commitlint-bot.git",
 	"keywords": [
 		"validate",
 		"commit",
@@ -34,8 +34,8 @@
 		"smee-client": "^1.0.1"
 	},
 	"engines": {
-		"node": "8.x",
-		"npm": "5.5.x"
+		"node": "9.8.0",
+		"npm": "20.5.1"
 	},
 	"jest": {
 		"testEnvironment": "node"
