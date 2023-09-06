@@ -1,9 +1,10 @@
 // Ours
 const commitlint = require("./lib/lint");
 
-module.exports = robot => {
+module.exports = app => {
   // For more information on building apps:
   // https://probot.github.io/docs/
-  robot.on("pull_request.opened", commitlint);
-  robot.on("pull_request.synchronize", commitlint);
+  app.on("pull_request.opened", commitlint);
+  app.on("pull_request.synchronize", commitlint);
+  app.on("push", commitlint)
 };

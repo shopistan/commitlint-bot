@@ -25,11 +25,11 @@
 		"README.md"
 	],
 	"dependencies": {
-		"@commitlint/config-conventional": "^8.2.0",
 		"@commitlint/core": "^17.7.1",
 		"probot": "^12.3.1"
 	},
 	"devDependencies": {
+		"@commitlint/config-conventional": "^17.7.0",
 		"jest": "^29.6.2",
 		"smee-client": "^1.0.1"
 	},
