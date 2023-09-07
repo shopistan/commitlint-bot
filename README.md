@@ -1,4 +1,4 @@
-# commitlint [bot]
+# pro-commitlint [bot]
 
 [![Travis](https://img.shields.io/travis/z0al/commitlint-bot.svg)](https://travis-ci.org/z0al/commitlint-bot)
 [![npm](https://img.shields.io/npm/v/commitlint-bot.svg)](https://www.npmjs.com/package/commitlint-bot)
