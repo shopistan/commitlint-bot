@@ -1,8 +1,15 @@
 {
-  "name": "commitlint-bot",
+  "name": "pro-commitlint",
   "description": "A GitHub App that runs commitlint for you",
-  "keywords": ["validate", "commit", "pr", "conventional", "git", "probot-app"],
-  "repository": "https://github.com/z0al/commitlint-bot",
+  "keywords": [
+    "validate",
+    "commit",
+    "pr",
+    "conventional",
+    "git",
+    "probot-app"
+  ],
+  "repository": "https://github.com/ammar-ahmed-butt/commitlint-bot.git",
   "env": {
     "PRIVATE_KEY": {
       "description": "the private key of your GitHub App."

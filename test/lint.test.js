@@ -2,7 +2,7 @@
 const { createRobot } = require('probot');
 
 // Update necessary env vars
-process.env.APP_NAME = 'commitlint-dev';
+process.env.APP_NAME = 'pro-commitlint';
 
 // Ours
 const app = require('../index');
