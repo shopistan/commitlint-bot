@@ -14,7 +14,7 @@ and sets an appropriate status check.
 
 ## Usage
 
-1.  Browse to [GitHub Apps - commitlint][apps]
+1.  Browse to [GitHub Apps - pro-commitlint][apps]
 2.  Accept the permissions
 3.  Allow access to repositories
 
